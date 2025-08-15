@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cf1c1e64-9ade-484e-b0d1-7f8cf6d44ee5"
+        },
+        {
+          "SchemaColumnUId": "c540ad32-33ed-4ad0-abb7-cc1575b9f6f2",
+          "Value": "7f3b869f-34f3-4f20-ab4d-7480a5fdf647",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "ceffac9c-08c8-4792-a3fc-2931b23bc538",
+          "Value": "dd2a55ab-5b01-4f1f-91ef-23152ba5fdb8",
+          "DisplayValue": "Finance"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1755249297685+0300)\/"
+        }
+      ]
+    }
+  ]
+}
