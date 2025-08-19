@@ -1,0 +1,51 @@
+= MetaData.Schema.UId "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.A2 "UsrAverageTicketPricePage"
+= MetaData.Schema.A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["09d13380-5ba0-e839-0eb2-8c4de07ba379"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["09d13380-5ba0-e839-0eb2-8c4de07ba379"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["d6b949fc-ba7c-e706-6a88-0422133b6a4e"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["d6b949fc-ba7c-e706-6a88-0422133b6a4e"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["f978738d-bca4-04fb-a000-defd7acf82c4"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["f978738d-bca4-04fb-a000-defd7acf82c4"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+= MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A4 "ec64a4ac-91d8-48a3-acdf-618252b9f829"
+= MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A5 "c105b007-8b55-495f-9f42-6e9327c19060"
+~ MetaData.Schema.B2 ["09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","f978738d-bca4-04fb-a000-defd7acf82c4","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
+= MetaData.Schema.B6 "9eab9248-7e5e-455c-95c1-c2397a82cc64"
+= MetaData.Schema.B8 "8.3.0.3074"
+= MetaData.Schema.HD1 "27e1b215-163a-4b82-b0a6-9872a8dde6e4"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:0,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "0b3d06ee-2fd3-8a36-99c2-c61deef8dc4b",
+  "A2": "UsrSqlText",
+  "A3": "ec64a4ac-91d8-48a3-acdf-618252b9f829",
+  "A4": "ec64a4ac-91d8-48a3-acdf-618252b9f829",
+  "L1": "5ca35f10-a101-4c67-a96a-383da6afacfc",
+  "L8": {},
+  "L11": false
+}
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "86983ad5-6bd3-afbd-f6da-19df36def0fd",
+  "A2": "UsrAvgTicketPrice",
+  "A3": "ec64a4ac-91d8-48a3-acdf-618252b9f829",
+  "A4": "ec64a4ac-91d8-48a3-acdf-618252b9f829",
+  "L1": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "L8": {},
+  "L11": false
+}
+~ MetaData.Schema.HD11 ["0b3d06ee-2fd3-8a36-99c2-c61deef8dc4b","86983ad5-6bd3-afbd-f6da-19df36def0fd"]
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false
