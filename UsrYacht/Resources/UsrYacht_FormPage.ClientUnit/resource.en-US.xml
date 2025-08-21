@@ -10,6 +10,7 @@
 			<Item Name="LocalizableStrings.addRecord_tgt5965_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_zpvfzty_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.Button_d2n5jlg_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CallMaxPriceWebServiceMenuItem_caption.Value" Value="Call Max price web service" />
 			<Item Name="LocalizableStrings.CategoriesMultiSelect_label.Value" Value="Categories" />
 			<Item Name="LocalizableStrings.CrewCountCannotBeLess.Value" Value="Crew count cannot be less than 1" />
 			<Item Name="LocalizableStrings.EmailInput_c0u9bsc_label.Value" Value="Email address" />
