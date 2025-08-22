@@ -1,0 +1,210 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "0e666b25-7b13-423b-be25-b4a228003952",
+      "A2": "UsrDNBService",
+      "A5": "c105b007-8b55-495f-9f42-6e9327c19060",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "9eab9248-7e5e-455c-95c1-c2397a82cc64",
+      "B8": "8.3.0.3074",
+      "IQ1": "https://api.service.dnb.com",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "033c001b-3211-486f-a530-0b8405143ff1",
+          "A2": "UsrMethod1",
+          "A3": "0e666b25-7b13-423b-be25-b4a228003952",
+          "A4": "0e666b25-7b13-423b-be25-b4a228003952",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "807fa2b2-9751-4f3e-a489-ffb92683fec0",
+                "A2": "UsrPName",
+                "IU1": "$.primaryName",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "53dc4120-8778-4b24-a143-2307e0a3ad36",
+                "A2": "UsrCCode",
+                "IU1": "$.countryCode",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "14446a74-1359-44cd-90ea-9493badd80e9",
+                "A2": "UsrAddress",
+                "IU1": "$.address",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "43896afc-8d4b-4913-8203-53936e3e025a",
+                "A2": "UsrTelephone",
+                "IU1": "$.telephone",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "6ede16ea-fef1-4f91-8d73-1ff804518b29",
+                "A2": "UsrCity",
+                "IU1": "$.city",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "bdd90300-c43f-4490-99f8-08b1353c1c31",
+                "A2": "UsrState",
+                "IU1": "$.state",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "3ea9c906-8e9b-4f9e-9522-184ea5bf3cc3",
+                "A2": "UsrZipcode",
+                "IU1": "$.zipcode",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "/companyLookup/lookupInfoByName"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "d5331564-e0f8-48fc-8502-9e4af96b7409",
+                "A2": "UsrParameter",
+                "IU1": "$",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "bd7f822a-de14-41c1-9b81-035dab2c5c36",
+                    "A2": "UsrCName",
+                    "IU1": "companyName",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "5c67f96b-6bd7-4acd-89be-4912a09e26b2",
+                    "A2": "UsrRNumber",
+                    "IU1": "registrationNumber",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "b764fb0c-8fec-487b-bcc3-51e160c79b68",
+                    "A2": "UsrAddress",
+                    "IU1": "address",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "536db033-cc47-4989-96d6-f04abac5cc56",
+                    "A2": "UsrCity",
+                    "IU1": "city",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "e0399dae-c021-4da5-ad11-32e205b7143c",
+                    "A2": "UsrZCode",
+                    "IU1": "zipCode",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "a8b928fc-3eba-4523-a2b8-294affac5203",
+                    "A2": "UsrCountry",
+                    "IU1": "country",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

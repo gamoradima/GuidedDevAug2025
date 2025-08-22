@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Input company data page" />
+			<Item Name="Parameters.62e0611b-4e27-32c5-68c6-d796bc65a491.Caption" Value="Company name" />
+			<Item Name="Parameters.f229decc-1cb0-a2a1-7cd5-2c9832b0509f.Caption" Value="Country code" />
+		</Items>
+	</Group>
+</Resources>

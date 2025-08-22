@@ -376,13 +376,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtEmailTemplate">
-			<HintPath>$(RelativePkgFolderPath)/CrtEmailTemplate/$(StandalonePackageAssemblyPath)/CrtEmailTemplate.dll</HintPath>
+		<Reference Include="CrtCalendar">
+			<HintPath>$(RelativePkgFolderPath)/CrtCalendar/$(StandalonePackageAssemblyPath)/CrtCalendar.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCalendar">
-			<HintPath>$(RelativePkgFolderPath)/CrtCalendar/$(StandalonePackageAssemblyPath)/CrtCalendar.dll</HintPath>
+		<Reference Include="CrtEmailTemplate">
+			<HintPath>$(RelativePkgFolderPath)/CrtEmailTemplate/$(StandalonePackageAssemblyPath)/CrtEmailTemplate.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -431,18 +431,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCopilotStudio">
-			<HintPath>$(RelativePkgFolderPath)/CrtCopilotStudio/$(StandalonePackageAssemblyPath)/CrtCopilotStudio.dll</HintPath>
+		<Reference Include="CrtDataForge">
+			<HintPath>$(RelativePkgFolderPath)/CrtDataForge/$(StandalonePackageAssemblyPath)/CrtDataForge.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
 		<Reference Include="CrtTranslation">
 			<HintPath>$(RelativePkgFolderPath)/CrtTranslation/$(StandalonePackageAssemblyPath)/CrtTranslation.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtDataForge">
-			<HintPath>$(RelativePkgFolderPath)/CrtDataForge/$(StandalonePackageAssemblyPath)/CrtDataForge.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -488,6 +483,11 @@
 		</Reference>
 		<Reference Include="XSSProtection">
 			<HintPath>$(RelativePkgFolderPath)/XSSProtection/$(StandalonePackageAssemblyPath)/XSSProtection.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCopilotStudio">
+			<HintPath>$(RelativePkgFolderPath)/CrtCopilotStudio/$(StandalonePackageAssemblyPath)/CrtCopilotStudio.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
